@@ -14,5 +14,5 @@ This data and files are  available under the [Creative Commons Attribution 4.0 I
 ## Author
 This data has been collected, cleaned and analysed by [Ravindra](https://ravi.rajiniravi.com).
 
-If you use the data, or have any suggestions, please email [ravindra.ramavath@gmail.com](mailto:ravindra.ramavath@gmail.com).
+If you plan to use the data and derive any analysis, or have any suggestions, please email [me](mailto:ravindra.ramavath@gmail.com).
 
