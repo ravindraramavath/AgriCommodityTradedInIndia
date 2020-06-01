@@ -8,6 +8,10 @@ The data is available from 2019 October onwards till last week ending on a satur
 
 There is one month data available for 2019 March as well which was pulled to check growth in arrivals.
 
+## Data update
+Data available from Oct-19 to May20.
+The data is updated till 30th May 2020. 
+
 ## Licence
 This data and files are  available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
