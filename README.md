@@ -9,7 +9,7 @@ The data is available from 2019 October onwards till last week ending on a satur
 There is one month data available for 2019 March as well which was pulled to check growth in arrivals.
 
 ## Data update
-Data available from 01-Jan-19 to 20-Jun-20.
+Data available from 01-Jan-19 to 28-Jun-20.
 Note: 38 new mandis have been integrated into enam on 15th May 20, so before analysing look at mandi level data.   
 
 ## Licence
