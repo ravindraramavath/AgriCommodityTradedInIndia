@@ -7,7 +7,7 @@ The data has been pulled from [eNam dasbhoard](https://enam.gov.in/web/dashboard
 The data is available from 2019 January onwards till last week ending on a saturday. 
 
 ## Data update
-Data available from 01-Jan-19 to 11-Jul-20.
+Data available from 01-Jan-19 to 1-Aug-20.
 Note: 38 new mandis have been integrated into enam on 15th May 20, so before analysing look at mandi level data.   
 
 ## Licence
