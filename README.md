@@ -4,8 +4,6 @@ This repository contains the data of India Agriculture Commodity trading data in
 ## Source data
 The data has been pulled from [eNam dasbhoard](https://enam.gov.in/web/dashboard/trade-data) which is available only for one week at a time.
 
-The data is available from 2019 January onwards till last week ending on a saturday. 
-
 ## Data update
 Data available from 01-Jan-19 to 30-Dec-20.
 
