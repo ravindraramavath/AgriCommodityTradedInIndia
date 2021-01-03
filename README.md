@@ -12,6 +12,7 @@ Data available from 01-Jan-19 to 30-Dec-20.
 ## Note
 1) 38 new mandis have been integrated into enam on 15th May 20, so before analysing look at mandi level data.   
 2) Sometime in September, the Indian Government enacted 3 new laws [Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act, 2020](http://egazette.nic.in/WriteReadData/2020/222039.pdf), [Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act, 2020](https://www.indiacode.nic.in/bitstream/123456789/15511/1/A2020_20.pdf), [Essential Commodities (Amendment) Act 2020](http://egazette.nic.in/WriteReadData/2020/222038.pdf). It may have led to APMCs losing trade share and crop arrivals may have fallen due to farmers and traders directly negotiating and trading outside of mandis. 
+3) Better and more complete Agri produce data might be available at [AGMARKNET](http://www.agmarknet.gov.in/). But, it is a very badly designed website to do automated data pull.
 
 ## Licence
 This data and files are  available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
